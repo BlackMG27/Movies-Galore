@@ -1,6 +1,6 @@
 # Group-Project-1
 
-##Group Project 1. Movies stuff
+## Group Project 1. Movies stuff
 
 Our movies app searches for a user-defined movie title using OMDB. If the app is able to locate a movie, it will pull that movie up and provide the user with additional information. The user sees:
 
@@ -9,13 +9,13 @@ Our movies app searches for a user-defined movie title using OMDB. If the app is
 - a thumbnail from the YouTube trailer, and a link to the YouTube video
 - The headline and first paragraph of the New York Times review of the movie from when it first came out, with a link to the New York Times website with that review
 
-##Team Members
+## Team Members
 - Chris Pete
 - Irfan Patel
 - Chris Jones
 - Kyle O'Neil
 
-##Future goals for this project include:
+## Future goals for this project include:
 
 - Incorporating a system that will determine where the user is, and then determine show times for movie theaters around them
 - Adding in a forum section for users to discuss various movies
