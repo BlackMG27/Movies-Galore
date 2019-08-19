@@ -14,6 +14,7 @@ Our movies app searches for a user-defined movie title using OMDB. If the app is
 - Irfan Patel
 - Chris Jones
 - Kyle O'Neil
+- Ogechi Ike
 
 ## Future goals for this project include:
 
